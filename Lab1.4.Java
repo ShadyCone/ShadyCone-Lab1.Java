@@ -19,9 +19,9 @@ public class Main{
         switch (month)
         {case 1: seasonstr = "st month is January which is winter";
             break;
-            case 2: seasonstr = "nd month  is February which is winter";
+            case 2: seasonstr = "nd month is February which is winter";
                 break;
-            case 3: seasonstr = "rd month  is March which is Spring";
+            case 3: seasonstr = "rd month is March which is Spring";
                 break;
             case 4: seasonstr = "th month is April which is Spring";
                 break;
